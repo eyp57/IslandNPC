@@ -1,0 +1,8 @@
+name: IslandNPC
+version: '${project.version}'
+main: xyz.eyyuepguelen.islandnpc.IslandNPC
+api-version: 1.18
+depend: [ Citizens, ASkyBlock ]
+authors: [ zRooter ]
+description: aa
+website: zrooter.tk
